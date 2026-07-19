@@ -1,0 +1,11 @@
+# Announcement #1
+* The CTM server is being finalized. The server will primarily be Spanish-speaking, but people of other languages ​​are also welcome. That's why the channels and roles are in English, and we will always provide an English translation of the news.
+
+## What do we still need to finish?
+* Here is the list of things we need to finish:
+* Server Economy
+* Auto-roles
+* Role Information
+* Server Rules
+* FAQ
+* Unknown...
